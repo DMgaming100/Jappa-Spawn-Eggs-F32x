@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+  "textures": {
+	"texture": "item/spawn_eggs/shulker_spawn_egg"
+  }
+}
